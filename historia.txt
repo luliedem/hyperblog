@@ -7,3 +7,5 @@ version 1
 es de estatura media 
 
 trabajamo en icbf SGSI
+
+Hoy hablaremos de su vida.
